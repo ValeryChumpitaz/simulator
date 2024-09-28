@@ -1,0 +1,19 @@
+{
+  "estudianteId": "ST001",
+  "nombreEstudiante": "Juan Pérez",
+  "periodoAcademico": "2024-2",
+  "programaEstudios": {
+    "programaId": "PG12345",
+    "nombre": "Desarrollo de Software"
+  },
+  "unidadesDidacticas": [
+    {
+      "unidadId": "UD5678",
+      "nombreUnidad": "Programación Orientada a Objetos"
+    },
+    {
+      "unidadId": "UD5679",
+      "nombreUnidad": "Bases de Datos"
+    }
+  ]
+}
